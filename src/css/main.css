@@ -1,0 +1,118 @@
+.main-container {
+    background-image: url(../images/download-banner.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 66.7%;
+    height: 15vw;
+    margin: 0 auto;
+}
+.main-container2 {
+    padding-bottom: 7vw;
+}
+.main-sub-container1 {
+    float: left;
+    color: white;
+    margin-left: 4vw;
+    margin-top: 2vw;
+}
+.main-sub-container2 {
+    float: right;
+    color: white;
+    margin-right: 4vw;
+    text-align: right;
+    margin-top: 2vw;
+}
+.main-T1 {
+    font-family: "scDream9";
+    font-size: 1.57vw;
+    margin-bottom: 0.5vw;
+}
+.main-T2 {
+    font-family: "arial";
+    font-size: 0.84vw;
+    margin-bottom: 1.5vw;
+}
+.main-T3 {
+    font-family: "scDream6";
+    font-size: 0.9vw;
+    margin-bottom: 1.7vw;
+}
+.main-T4 {
+    font-family: "scDream4";
+    font-size: 0.9vw;
+    margin-bottom: 0.5vw;
+}
+.manp-download{
+    background-color: #FFBC51;
+    color: #8C1F47;
+    border: none;
+    font-family: "scDream6";
+    font-size: 0.84vw;
+    height: 3vw;
+    width: 11.4vw;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 1vw;
+}
+.mail-download{
+    background-color: white;
+    color: #8C1F47;
+    border: none;
+    font-family: "scDream6";
+    font-size: 0.84vw;
+    height: 3vw;
+    width: 13vw;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.main-container2 {
+    width: 66.7%;
+    margin: 0 auto;
+}
+.main-header {
+    display: flex;
+}
+.main-section-icon {
+    width: 1vw;
+    height: 1vw;
+    margin-top: 0.3vw;
+    margin-right: 0.5vw;
+}
+.main-T5{
+    font-family: "scDream6";
+    font-size: 1.25vw;
+}
+
+table, tr, th, td {
+    border: 1px solid #E8E8E8;
+    border-collapse: collapse;
+}
+tr {
+    height: 2.72vw;
+}
+tbody tr:nth-child(n+2) {
+    cursor: pointer;
+}
+tbody tr:nth-child(n+2):hover {
+    background-color: rgba(140, 31, 71, 0.06);
+}
+.main-table {
+    width: 100%;
+    margin: 1vw auto 0 auto;
+    font-family: 'SCDream4';
+    text-align: center;
+    font-size: 0.74vw;
+    color: #666666;
+}
+.main-table thead, .main-table tbody tr:first-child td:first-child {
+    font-family: 'SCDream6';
+    font-size: 0.74vw;
+}
+.main-table thead, .main-table tbody tr:first-child {
+    background-color: #F8F8F8;
+}
+.main-pink {
+    background-color: rgba(140, 31, 71, 0.06);
+}

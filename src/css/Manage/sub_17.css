@@ -1,0 +1,159 @@
+.sub2-container {
+    width: 66.6%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 2.5vw;
+}  
+.sub2-section-icon {
+    width: 1vw;
+    height: 1vw;
+    margin-top: 0.3vw;
+    margin-right: 0.5vw;
+}
+.sub2-T1{
+    font-family: "scDream6";
+    font-size: 1.25vw;
+}
+.sub2-container2 {
+    width: 66.6%;
+    margin: 0 auto;
+}
+.sub2-container4 {
+    width: 66.6%;
+    margin: 0 auto;
+    margin-top: 1.5vw;
+    padding-bottom: 7vw;
+}
+.sub2-sub-container {
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+    padding-top: 1.5vw;
+    padding-bottom: 1.5vw;
+    margin-bottom: 0.5vw;
+    display: flex;
+    margin-top: 1.5vw;
+}
+.input-container{
+    margin-bottom: 1vw;
+    display: flex;
+    margin: 0 auto;
+}
+.date-picker {
+    height: 1.98vw;
+    width: 8.8vw;
+    border: 1px solid #E8E8E8;
+    background-color: white;
+    font-family: "scDream4";
+    font-size: 0.75vw;
+    color: #333333;
+    float: right;
+    padding-left: 1vw;
+    line-height: 1.9vw;
+}
+.calendar-icon {
+    width: 1.25vw;
+    float: right;
+    margin-top: 0.4vw;
+    margin-right: 0.5vw;
+}
+.range {
+    font-family: "scDream6";
+    font-size: 0.75vw;
+    line-height: 1.9vw;
+    margin: 0 1vw;
+}
+label {
+    font-family: "scDream6";
+    font-size: 0.75vw;
+    margin-right: 1vw;
+    color: #666666;
+    line-height: 1.9vw;
+}
+input[type=text] {
+    height: 1.9vw;
+    width: 12.34vw;
+    border: 1px solid #E8E8E8;
+    float: right;
+    padding-left: 1vw;
+    font-family: "scDream4";
+    font-size: 0.75vw;
+    color: #333333;
+    margin-left: 1vw;
+}
+input:focus {
+    outline: none;
+}
+input::placeholder {
+    color: #CCCCCC;
+}
+.search-btn {
+    background-color: #3D464F;
+    border: none;
+    color: white;
+    font-family: "scDream6";
+    font-size: 0.73vw;
+    width: 4.7vw;
+    height: 2.1vw;
+    margin-left: 0.5vw;
+    cursor: pointer;
+}
+
+table, tr, th, td {
+    border: 1px solid #E8E8E8;
+    border-collapse: collapse;
+}
+tr {
+    height: 2.72vw;
+}
+.sub2-table tbody tr:hover {
+    background-color: rgba(140, 31, 71, 0.06);
+}
+.sub2-table {
+    width: 100%;
+    margin: 1vw auto 0 auto;
+    font-family: 'SCDream4';
+    text-align: center;
+    font-size: 0.74vw;
+}
+.sub2-table thead{
+    background-color: #F8F8F8;
+    font-family: 'SCDream6';
+}
+.table-btn-container {
+    margin: 0 auto;
+    width: 25.2%;
+    height:2vw;
+    margin-top: 2vw;
+    display: flex;
+}
+.table-page-btn {
+    margin-right: 0.3vw;
+    background-color: white;
+    border: 1px solid #DFE2E6;
+    cursor: pointer;
+}
+.table-page-btn:last-child {
+    margin-right: 0vw;
+}
+.page-numbers:focus, .page-count button:hover  {
+    background-color: #3D464F;
+    color: white;
+}
+.page-numbers{
+    margin: 0 0.5vw 0 0.5vw;
+}
+.page-numbers .active{
+    background-color: #3D464F;
+    color: white;
+    border: none;
+    
+}
+.page-number {
+    font-size: 1vw;
+    height: 2vw;
+    width: 2vw;
+    margin-right: 0.3vw;
+    background-color: white;
+    border: 1px solid #DFE2E6;
+    cursor: pointer;
+}

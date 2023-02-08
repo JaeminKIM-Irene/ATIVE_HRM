@@ -1,0 +1,225 @@
+.sub2-container {
+    width: 66.6%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 2.5vw;
+}  
+.sub2-section-icon {
+    width: 1vw;
+    height: 1vw;
+    margin-top: 0.3vw;
+    margin-right: 0.5vw;
+}
+.sub2-T1{
+    font-family: "scDream6";
+    font-size: 1.25vw;
+}
+.sub2-container2 {
+    width: 66.6%;
+    margin: 0 auto;
+}
+.sub2-container3 {
+    width: 66.6%;
+    margin: 0 auto;
+    margin-top: 4vw;
+    padding-bottom: 7vw;
+}
+.sub2-T2{
+    font-family: "scDream5";
+    font-size: 0.84vw;
+    color: #8C1F47;
+    margin-bottom: 0.8vw;
+}
+.sub2-T3{
+    font-family: "scDream6";
+    font-size: 1.05vw;
+}
+.dot {
+    width: 0.32vw; 
+    height: 0.32vw;
+    margin-top: 0.5vw;
+    margin-right: 0.5vw;
+}
+.sub2-section-header {
+    display: flex;
+    margin-top: 1.2vw;
+    margin-bottom: 0.8vw;
+}
+.sub2-sub-container {
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+    padding-top: 1.5vw;
+    padding-bottom: 1.5vw;
+    display: flex;
+}
+.input-container{
+    margin-bottom: 1vw;
+    display: flex;
+    margin: 0 auto;
+}
+.select {
+    width: 9.9vw;
+}
+.select2 {
+    width: 5.21vw;
+    margin-right: 0.5vw;
+}
+label {
+    font-family: "scDream6";
+    font-size: 0.75vw;
+    margin-right: 1vw;
+    color: #666666;
+    line-height: 1.9vw;
+}
+input[type=text] {
+    height: 1.9vw;
+    width: 5.05vw;
+    border: 1px solid #E8E8E8;
+    float: right;
+    padding-left: 1vw;
+    font-family: "scDream4";
+    font-size: 0.75vw;
+    color: #333333;
+    margin-right: 0.5vw;
+}
+input[id=search] {
+    width: 44.53vw;
+    margin-left: 0.5vw;
+}
+input[id=name] {
+    width: 4.01vw;
+}
+input[id=email], input[id=account] {
+    width: 5.57vw;
+}
+input:focus {
+    outline: none;
+}
+input::placeholder {
+    color: #CCCCCC;
+}
+.search-btn {
+    background-color: #3D464F;
+    border: none;
+    color: white;
+    font-family: "scDream6";
+    font-size: 0.73vw;
+    width: 4.7vw;
+    height: 2.1vw;
+    cursor: pointer;
+}
+.search-btn2 {
+    background-color: white;
+    border: 1px solid #E8E8E8;
+    color: #333333;
+    font-family: "scDream6";
+    font-size: 0.73vw;
+    width: 4.7vw;
+    height: 2.1vw;
+    margin-left: 0.5vw;
+    cursor: pointer;
+}
+.search-result {
+    background-color: white;
+    width: 99.9%;
+    height: 9.3vw;
+    overflow: scroll;
+    border: 1px solid #E8E8E8;
+    border-top: none;
+}
+.add-btn {
+    border: 1px solid #8C1F47;
+    color: #8C1F47;
+    background-color: white;
+    width: 6.8vw;
+    height: 2.1vw;
+    font-family: 'SCDream6';
+    font-size: 0.74vw;
+    cursor: pointer;
+    float: right;
+    margin-top: 1vw;
+}
+.add-btn2 {
+    background-image: url(../../images/plus-btn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 2.09vw;
+    height: 2.09vw;
+    border: none;
+    cursor: pointer;
+}
+table, tr, th, td {
+    border: 1px solid #E8E8E8;
+    border-collapse: collapse;
+}
+tr {
+    height: 2.72vw;
+}
+.sub2-table tbody tr:hover {
+    background-color: rgba(140, 31, 71, 0.06);
+}
+.sub2-table {
+    width: 100%;
+    margin: 1vw auto 1vw auto;
+    font-family: 'SCDream4';
+    text-align: center;
+    font-size: 0.74vw;
+}
+.sub2-table thead {
+    background-color: #F8F8F8;
+    font-family: 'SCDream6';
+}
+.table-btn-container {
+    margin: 0 auto;
+    width: 25.2%;
+    height:2vw;
+    margin-top: 2vw;
+    display: flex;
+}
+.table-page-btn {
+    margin-right: 0.3vw;
+    background-color: white;
+    border: 1px solid #DFE2E6;
+}
+.table-page-btn:last-child {
+    margin-right: 0vw;
+}
+.page-numbers:focus, .page-count button:hover  {
+    background-color: #3D464F;
+    color: white;
+}
+.page-numbers{
+    margin: 0 0.5vw 0 0.5vw;
+}
+.page-numbers .active{
+    background-color: #3D464F;
+    color: white;
+    border: none;
+    
+}
+.page-number {
+    font-size: 1vw;
+    height: 2vw;
+    width: 2vw;
+    margin-right: 0.3vw;
+    background-color: white;
+    border: 1px solid #DFE2E6;
+}
+.edit-btn{
+    background-image: url(../../images/edit-btn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1.88vw;
+    height: 1.88vw;
+    border: none;
+    cursor: pointer;
+}
+.delete-btn{
+    background-image: url(../../images/delete-btn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1.88vw;
+    height: 1.88vw;
+    border: none;
+    cursor: pointer;
+}

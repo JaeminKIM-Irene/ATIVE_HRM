@@ -1,0 +1,194 @@
+.sub1-container {
+    width: 66.6%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 2.5vw;
+}  
+.sub1-section-icon {
+    width: 1vw;
+    height: 1vw;
+    margin-top: 0.3vw;
+    margin-right: 0.5vw;
+}
+.sub1-T1{
+    font-family: "scDream6";
+    font-size: 1.25vw;
+}
+.sub1-container2 {
+    width: 66.6%;
+    margin: 0 auto;
+}
+.sub1-container3 {
+    width: 66.6%;
+    margin: 0 auto;
+    margin-top: 4vw;
+}
+.sub1-container4 {
+    width: 66.6%;
+    margin: 0 auto;
+    margin-top: 4.5vw;
+    padding-bottom: 7vw;
+}
+.sub1-T2{
+    font-family: "scDream6";
+    font-size: 1.05vw;
+}
+.dot {
+    width: 0.32vw; 
+    height: 0.32vw;
+    margin-top: 0.5vw;
+    margin-right: 0.5vw;
+}
+.sub1-section-header {
+    display: flex;
+    margin-top: 1.2vw;
+    margin-bottom: 0.8vw;
+}
+.sub1-sub-container {
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+    height: 9.7vw;
+    padding-top: 1.5vw;
+    margin-bottom: 0.5vw;
+}
+.sub1-sub-container2 {
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+    height: 16vw;
+    padding-top: 1.5vw;
+    margin-bottom: 1vw;
+}
+label {
+    font-family: "scDream6";
+    font-size: 0.75vw;
+    margin-right: 1vw;
+    color: #666666;
+    float: right;
+    line-height: 1.9vw;
+}
+input[type=text] {
+    height: 1.9vw;
+    width: 13.3vw;
+    border: 1px solid #E8E8E8;
+    float: right;
+    padding-left: 1vw;
+    font-family: "scDream4";
+    font-size: 0.75vw;
+    color: #333333;
+}
+input:focus {
+    outline: none;
+}
+input::placeholder {
+    color: #CCCCCC;
+}
+label[for=addInfo] > span {
+    font-family: "scDream4";
+    font-size: 0.74vw;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.checkbox-container {
+    float: left;
+}
+input[type=checkbox] {
+    display: none;
+}
+input[id="addInfo"] + label::before{
+    content:"";
+    display:inline-block;
+    width: 1.05vw;
+    height: 1.05vw;
+    border:1px solid #E8E8E8;
+    position: relative;
+    background-color: #F8F8F8;
+    margin-right: 0.5vw;
+    vertical-align:middle;
+    cursor: pointer;
+  }
+input[id="addInfo"]:checked + label::before{
+    content:'';
+    font-size: 0.74vw;
+    width: 1.05vw;
+    height: 1.05vw;
+    margin-right: 0.5vw;
+    background-image: url('../../images/check_box.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+}
+.input-container{
+    width: 31.9%;
+    float: left;
+    margin-bottom: 1vw;
+}
+#summary {
+    height: 1.9vw;
+    width: 34.5vw;
+    margin-right: 2.9vw;
+    border: 1px solid #E8E8E8;
+    float: right;
+}
+#work-detail, #certificate, #note {
+    width: 83.8%;
+    margin-right: 2.9vw;
+    margin-bottom: 1vw;
+}
+.container2-btns {
+    float: right;
+}
+.list-btn {
+    border: 1px solid #E8E8E8;
+    background-color: white;
+    width: 4.7vw;
+    height: 2.35vw;
+    font-family: "scDream6";
+    color: #333333;
+    font-size: 0.75vw;
+    margin-right: 0.7vw;
+    cursor: pointer;
+}
+.copy-btn {
+    border: 1px solid #8C1F47;
+    background-color: white;
+    width: 5.75vw;
+    height: 2.35vw;
+    font-family: "scDream6";
+    color: #8C1F47;
+    font-size: 0.75vw;
+    margin-right: 0.7vw;
+    cursor: pointer;
+}
+.save-btn {
+    border: 1px solid #8C1F47;
+    background-color: #8C1F47;
+    width: 4.7vw;
+    height: 2.35vw;
+    font-family: "scDream6";
+    color: white;
+    font-size: 0.75vw;
+    cursor: pointer;
+}
+table, tr, th, td {
+    border: 1px solid #E8E8E8;
+    border-collapse: collapse;
+}
+tr {
+    height: 2.72vw;
+}
+tbody tr:hover {
+    background-color: rgba(140, 31, 71, 0.06);
+}
+.sub1-table {
+    width: 100%;
+    margin: 1vw auto 0 auto;
+    font-family: 'SCDream4';
+    text-align: center;
+    font-size: 0.74vw;
+    color: #666666;
+}
+.sub1-table thead {
+    font-family: 'SCDream6';
+    font-size: 0.74vw;
+    background-color: #F8F8F8;
+}
