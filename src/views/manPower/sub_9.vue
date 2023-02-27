@@ -7,7 +7,7 @@
     <div class="sub2-container2">
         <div class="sub2-section-header">
             <img class="dot" src="../../images/dot.png" alt="" />
-            <div class="sub2-T2">NICE그룹 퇴사자 현황</div>
+            <div class="sub2-T2">ATIVE그룹 퇴사자 현황</div>
         </div>
         <div class="sub2-sub-container">
             <div class="input-container">
@@ -72,7 +72,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>NICE 홀딩스</td>
+                    <td>ATIVE 홀딩스</td>
                     <td>0</td>
                     <td>4</td>
                     <td>0</td>
@@ -90,7 +90,7 @@
         <div class="list-num">[퇴사자 수:8]</div>
         <div class="sub2-section-header">
             <img class="dot" src="../../images/dot.png" alt="" />
-            <div class="sub2-T3">NICE 홀딩스</div>
+            <div class="sub2-T3">ATIVE 홀딩스</div>
         </div>
         <table class="sub2-table">
             <colgroup>
@@ -157,14 +157,14 @@
                 startDate:new Date(),
                 endDate:new Date(),
                 listArray: [
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
-                    {compName: 'NICE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
+                    {compName: 'ATIVE 홀딩스', partName: "IS혁신실", name: "백석주", type: "정규직", date: "2022-11-18", reason: "이직", edit:""},
                     
                 ],
             }

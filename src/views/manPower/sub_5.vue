@@ -131,31 +131,31 @@
                         <td>2019-11-14</td>
                     </tr>
                     <tr>
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>범블비</td>
                         <td>신규</td>
-                        <td>NICE홀딩스, 메일사용 RPABOT1</td>
+                        <td>ATIVE홀딩스, 메일사용 RPABOT1</td>
                         <td>2019-10-22</td>
                     </tr>
                     <tr>
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>범블비</td>
                         <td>신규</td>
-                        <td>NICE홀딩스, 메일사용 RPABOT1</td>
+                        <td>ATIVE홀딩스, 메일사용 RPABOT1</td>
                         <td>2019-10-22</td>
                     </tr>
                     <tr>
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>범블비</td>
                         <td>신규</td>
-                        <td>NICE홀딩스, 메일사용 RPABOT1</td>
+                        <td>ATIVE홀딩스, 메일사용 RPABOT1</td>
                         <td>2019-10-22</td>
                     </tr>
                     <tr>
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>범블비</td>
                         <td>신규</td>
-                        <td>NICE홀딩스, 메일사용 RPABOT1</td>
+                        <td>ATIVE홀딩스, 메일사용 RPABOT1</td>
                         <td>2019-10-22</td>
                     </tr>
                     

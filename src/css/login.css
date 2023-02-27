@@ -21,7 +21,9 @@
     position: relative;
 }
 .login-logo {
-    width: 6.41vw;
+    color: white;
+    font-family: 'notoSansMed';
+    font-size: 3vw;
     position: absolute;
     top: 50%;
     left: 50%;

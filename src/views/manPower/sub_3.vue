@@ -7,7 +7,7 @@
     <div class="sub-container2">
         <div class="sub-section-header">
             <img class="dot" src="../../images/dot.png" alt="" />
-            <div class="sub-T2">NICE그룹 전체 인력현황</div>
+            <div class="sub-T2">ATIVE그룹 전체 인력현황</div>
         </div>
         <button class="sub-filter-btn">[IT인력만 보기]</button>
         <div class="sub-sub-container">
@@ -69,7 +69,7 @@
                     <td>{{totalArray.total}}</td>
                 </tr>
                 <tr>
-                    <td>NICE 홀딩스</td>
+                    <td>ATIVE 홀딩스</td>
                     <td>11</td>
                     <td>0</td>
                     <td>0</td>
@@ -162,43 +162,43 @@
                 pageNum: 0,
                 pageSize: 10,
                 listArray: [
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: true},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: true},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: true},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
-                    {overall: 'NICE 홀딩스', partName: "NICE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@nice.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"NICE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: true},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: true},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: true},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
+                    {overall: 'ATIVE 홀딩스', partName: "ATIVE 홀딩스", position:"대표이사", name:"이현석", status:"재직", email:"hsies@ATIVE.co.kr", num:"02-2122-4090", phone:"010-3163-6154", summary:"ATIVE그룹", it: false},
                 ],
                 totalArray: {groupAccount: 434, addAccount: 32, groupMan: 39, addMan: 11, total: 607}
             }

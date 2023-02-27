@@ -4,17 +4,17 @@
         <div class="main-container">
             <div class="main-sub-container1">
                 <div class="main-T1">그룹 IT현황 다운로드</div>
-                <div class="main-T2">NICE Group IT Management Portal</div>
+                <div class="main-T2">ATIVE Group IT Management Portal</div>
                 <div class="main-download-btns">
                     <button class="manp-download">인력 데이터 다운로드</button>
                     <button class="mail-download">RPA 메일 수신 그룹 다운로드</button>
                 </div>
             </div>
             <div class="main-sub-container2">
-                <div class="main-T3">NICE 홀딩스</div>
+                <div class="main-T3">ATIVE 홀딩스</div>
                 <div class="main-T4">test 계정(일반)님</div>
                 <div class="main-T4">메일 사용 mail</div>
-                <div class="main-T4">rpabot1@nice.co.kr</div>
+                <div class="main-T4">rpabot1@ative.co.kr</div>
             </div>
         </div>
         <div class="main-container2">
@@ -70,7 +70,7 @@
                         <td>607</td>
                     </tr>
                     <tr @click="$router.push('/man/sub7')">
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>1</td>
                         <td>11</td>
                         <td>0</td>
@@ -83,7 +83,7 @@
                         <td>31</td>
                     </tr>
                     <tr @click="$router.push('/man/sub7')">
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>1</td>
                         <td>11</td>
                         <td>0</td>
@@ -96,7 +96,7 @@
                         <td>31</td>
                     </tr>
                     <tr @click="$router.push('/man/sub7')">
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>1</td>
                         <td>11</td>
                         <td>0</td>
@@ -109,7 +109,7 @@
                         <td>31</td>
                     </tr>
                     <tr @click="$router.push('/man/sub7')">
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>1</td>
                         <td>11</td>
                         <td>0</td>
@@ -122,7 +122,7 @@
                         <td>31</td>
                     </tr>
                     <tr @click="$router.push('/man/sub7')">
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>1</td>
                         <td>11</td>
                         <td>0</td>
@@ -135,7 +135,7 @@
                         <td>31</td>
                     </tr>
                     <tr @click="$router.push('/man/sub7')">
-                        <td>NICE 홀딩스</td>
+                        <td>ATIVE 홀딩스</td>
                         <td>1</td>
                         <td>11</td>
                         <td>0</td>
