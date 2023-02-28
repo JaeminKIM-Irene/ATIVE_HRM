@@ -4,12 +4,12 @@
 
 
 
-**신용기관 사내 HR관리 사이트를 제작하였습니다**</br></br></br>
+**신용기관 회사의 사내 HR관리 사이트를 제작하였습니다**</br></br></br>
 
 
 
  ## :calendar: 프로젝트 기간 :calendar:
-### 2023.12-2023.12 </br></br></br>
+### 2022.12-2022.12 </br></br></br>
 ## :memo: Teck Stack :memo: 
 ### [Framework & Languages]
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
