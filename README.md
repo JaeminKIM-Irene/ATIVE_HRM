@@ -1,4 +1,3 @@
-프리랜서(프론트엔드/퍼블리싱) - 신용기관 회사의 사내 HR관리 사이트 제작물의 저장소입니다
 <div align=center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&customColorList=0&height=200&section=header&text=HRM&fontSize=70" />
